@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Marold👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+- 🔭 Hoje trabalho com Back-End
+- 🌱 Estudando PL/SQL
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardomarold&show_icons=true&theme=dark&include_allcommits=ture&count_private=ture"/>  
