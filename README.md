@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eduardo Marold👋
 
-- 🔭 Hoje trabalho com Back-End
+- 🔭 Hoje trabalho com Front/Back-End
 - 🌱 Estudando PL/SQL
 
 <div>
